@@ -9,5 +9,6 @@
 -Horacio's Pizza
 #### Places to Avoid
 -City center
+-Rural areas
 #### Fun Facts
 -Town is 538 years old
