@@ -3,6 +3,7 @@
 #### Places to Go
 -Kerner's Folly
 -Paul J. Ceiner Botanical Garden
+-Farmer's hardware
 
 #### Places to Eat
 -Mad Greek
@@ -12,6 +13,7 @@
 
 #### Places to Avoid
 -Walmart
+-lowes hardware
 
 #### Fun Facts
 Kerner's folly has 17 different floor levels from basement to attic
