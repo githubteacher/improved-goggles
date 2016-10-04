@@ -5,6 +5,8 @@
 #### | Places     | State     |
 | :------------- | :------------- |
 | Mysore       | 1      |
+| Bangalore    | 2      |
+
 
 #### Places to Eat
 
