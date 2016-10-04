@@ -2,6 +2,7 @@
 
 #### Places to Go
 - Zerns Farmer's Market
+
 #### Places to Eat
 - Shorty's Cafe
 - Shady Maple
