@@ -5,6 +5,7 @@
 - some other places
 
 #### Places to Eat
+- Sticky Lips
 
 #### Places to Avoid
 
