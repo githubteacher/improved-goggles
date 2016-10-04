@@ -14,3 +14,4 @@
 
 #### Fun Facts
 - There are absolutely no un facts about Elkton, MD.
+- There are still no fun facts
