@@ -6,6 +6,7 @@
 
 #### Places to Eat
 - City Tacos
+- Poki One N Half
 
 #### Places to Avoid
 - Sea World
