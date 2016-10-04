@@ -6,6 +6,7 @@
 
 #### Places To Eat
 - Pontillo's Pizza
+- Jines
 
 #### Places To Avoid
 
