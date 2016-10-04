@@ -2,6 +2,7 @@
 
 #### Places To Go
 - Wegmans
+- Eastman House
 
 #### Places To Eat
 - Pontillo's Pizza
