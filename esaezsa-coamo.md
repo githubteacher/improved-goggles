@@ -3,6 +3,7 @@
 #### Places to Go
 -Town Square
 -Banos de Coamo
+-Catholic Church
 #### Places to Eat
 -La Ceiba
 -Horacio's Pizza
