@@ -3,6 +3,7 @@
 #### Places to Go
 - some places
 - some other places
+- Eastman House
 
 #### Places to Eat
 - Sticky Lips
