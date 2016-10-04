@@ -3,6 +3,7 @@
 #### Places to Go
 - Canandaigua Lake
 - Finger Lakes Casino
+- Farmington United Methodist Church
 
 #### Places to Eat
 - Mark's Pizzeria
