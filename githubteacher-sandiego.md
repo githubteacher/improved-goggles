@@ -3,6 +3,7 @@
 #### Places to Go
 - Coronado
 - Balboa Park
+- North Park 
 
 #### Places to Eat
 - City Tacos
