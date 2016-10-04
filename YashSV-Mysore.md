@@ -6,6 +6,7 @@
 | :------------- | :------------- |
 | Mysore       | 1      |
 | Bangalore    | 2      |
+| Mangalore    |3       |
 
 
 #### Places to Eat
