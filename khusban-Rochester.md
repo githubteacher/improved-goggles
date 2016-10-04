@@ -1,6 +1,8 @@
 ### Rochester, NY
 
 #### Places to Go
+- some places
+- some other places
 
 #### Places to Eat
 
